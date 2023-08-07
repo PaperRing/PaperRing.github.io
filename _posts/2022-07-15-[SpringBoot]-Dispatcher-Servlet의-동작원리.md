@@ -1,6 +1,6 @@
 ---
 title: "[Spring Boot]  Dispatcher Servlet의 동작원리"
-date: 2023-04-15 11:33:00 +0800
+date: 2022-07-15 11:33:00 +0800
 categories: [Spring Boot]
 tags: [Spring Boot]
 pin: true

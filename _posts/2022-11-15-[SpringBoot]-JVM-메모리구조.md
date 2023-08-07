@@ -1,6 +1,6 @@
 ---
 title: "JVM 메모리구조"
-date: 2023-07-18 11:33:00 +0800
+date: 2023-11-12 11:33:00 +0800
 categories: [Language]
 tags: [SpringBoot, Kotlin, JAVA]
 pin: true

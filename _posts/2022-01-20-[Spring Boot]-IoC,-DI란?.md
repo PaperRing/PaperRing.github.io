@@ -1,6 +1,6 @@
 ---
 title: "[Spring Boot] IoC, DI란?"
-date: 2023-01-20 11:33:00 +0800
+date: 2022-01-20 11:33:00 +0800
 categories: [Spring Boot]
 tags: [Spring Boot]
 pin: true
