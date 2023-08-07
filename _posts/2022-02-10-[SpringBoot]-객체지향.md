@@ -114,10 +114,3 @@ ex) 아우디, 니싼, 볼보는 모두 `자동차`에 해당된다. 자동차�
 <br>
 <br>
 <br>
--참고-
-
-https://catsbi.oopy.io/8e469ffc-8446-458e-af9d-8b81d5d62d21
-
-https://catsbi.notion.site/SOLID-df957786ea1f49299e8fc74453b12695
-
-https://catsbi.oopy.io/8e469ffc-8446-458e-af9d-8b81d5d62d21
